@@ -1,4 +1,4 @@
-![image](https://github.com/pigbearhsien/foody/blob/main/frontend/public/screenshot.png)
+![image](https://github.com/pigbearhsien/foody/blob/main/frontend/public/screenshot.jpeg)
 
 <h1 align="center">Foody</h1>
 <p align="center">
